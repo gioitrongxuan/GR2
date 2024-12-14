@@ -128,3 +128,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+# tạm thời chưa lưu. HS_RA
+HS_RA/
+HS_RA.zip
