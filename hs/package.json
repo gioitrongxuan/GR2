@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  },
+  "scripts": {
+    "test-main-dlhs": "node ./algorithm/main_dlhs.js",
+    "test-main-hs": "node ./algorithm/main_hs.js",
+    "test-benmark-hs": "node ./test/benmark/main_hs.js",
+    "test-benmark-dlhs": "node ./test/benmark/main_dlhs.js",
+    "test-ss-dangnv": "node ./test/sosanh/dangnv/index.js",
+    "test-ss-dlhs": "node ./test/sosanh/TienCM/index_dlhs.js",
+    "test-ss-hs": "node ./test/sosanh/TienCM/index_hs.js"
+  }
+}
